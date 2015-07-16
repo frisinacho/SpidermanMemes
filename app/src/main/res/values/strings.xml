@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Spidermemes</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="save">Save!</string>
+    <string name="random_button">Click me!</string>
+    <string name="spoderman">SPODERMAN Y U DO DIS?</string>
+</resources>
